@@ -8,7 +8,7 @@ int input()
   return num;
 }
 
-// Using Euclidean algorithm
+
 int gcd(int a, int b)
 {
     int large = a > b ? a : b;
